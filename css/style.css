@@ -1,0 +1,126 @@
+.container {
+    border: 1px solid #ddd;
+}
+
+h1{
+    color: black;
+}
+
+#myHeader {
+    background-color: lightblue;
+    color: black;
+    padding: 40px;
+    text-align: center;
+  }
+
+  .city {
+    background-color: tomato;
+    color: white;
+    padding: 10px;
+  } 
+
+  .box-1 {
+    padding: 10px;
+    
+}
+
+.box-2 {
+    padding: 10px;
+    
+}
+
+.box-3 {
+    padding: 10px;
+
+}
+
+.our-own {
+    border: 4px solid wheat;
+    padding: 10px;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.friday-form{
+    width: 500px;
+    border: 1px solid #eee;
+    padding: 10px;
+    margin: 10px auto 10px auto;
+}
+
+label {
+    font-size: 14px;
+}
+
+.email-input{
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.textarea{
+    padding: 5px;
+}
+
+.button{
+    padding: 5px 10px;
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+}
+
+.about-section{
+    padding: 10px;
+    margin: 75px auto;
+}
+
+.about-heading{
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 15px;
+}
+
+.real{
+    margin-left: 100px;
+    margin-right: 800px;
+}
+
+.den{
+    margin-left: 100px;
+}
+
+
+.carousel-inner{
+    margin-bottom: 200px;
+}
+
+.footer-p{
+    color: #eee;
+    text-align: center;
+}
+
+.nav-bg {
+    background-color: purple;
+}
+
+.pad {
+    padding: 45px 0;
+}
+
+.side-image {
+    padding: 10px;
+    border-radius: 5px;
+    border: 4px solid grey;
+}
+
+.pg-pad {
+    padding: 15px;
+}
+
+.footer {
+    padding: 20px 0;
+    background-color: #333;
+    color: #eee;
+}

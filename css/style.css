@@ -73,7 +73,8 @@ label {
 
 .about-section{
     padding: 10px;
-    margin: 75px auto;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 .about-heading{
@@ -128,4 +129,63 @@ label {
 .about-section p {
     text-align: justify;
     padding: 10px;
+}
+
+*{
+   
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    
+    text-align: center;
+}
+
+.container {
+    
+    width: 500px;
+    padding: 10px;
+    border: 1px solid black;
+    background-color: white;
+    margin-top: 50px;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 10px;
+}
+
+.form-input {
+   
+    padding: 10px;
+    width: 80%;
+    margin:10px auto;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    border-radius: 10px;
+    font-size: 14px;
+    
+}
+
+.button{
+    
+    padding: 10px 15px;
+    background-color: purple;
+    color: white;
+    display: block;
+    width: 80%;
+    margin:10px auto;
+    border: none;
+    border-radius: 10px;
+    font-size: 14px;
+
+}
+
+.coco{
+    color: blue;
+}
+
+.text-center{
+    margin-left: auto;
+    margin-right: auto;
 }
